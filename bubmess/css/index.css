@@ -12,7 +12,7 @@ aside{
 
 }
 aside a{
-    color: white;
+    color: black;
     display: block;
     padding: 5px 0;
     text-decoration: none;
@@ -38,10 +38,12 @@ article{
     color: white;
     font-size: 120%;
     padding: 0 10px;
+    text-align: center;
 }
 
 article a{
     color: white;
+    font-weight: bold;
     padding: 5px;
     text-decoration: none;
 }
