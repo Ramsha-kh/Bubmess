@@ -51,7 +51,7 @@ nav a {
 
 .active_nav {
     background-color: #e6a546;
-    color: #6f3b44;
+    color: black;
     font-weight: bold;
 }
 /* Medium devices (landscape tablets, 768px and up) */
